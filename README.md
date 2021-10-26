@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is my personal project Github. For my work Github, go to https://github.com/xchelseysee
+
 - 🔭 I’m currently working on Software Quality Assurance apprenticeship
 - 🌱 I’m currently learning JavaScript
 - 🌱 I’m currently learning Dynamic Testing
